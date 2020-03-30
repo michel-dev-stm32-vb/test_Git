@@ -1,3 +1,5 @@
 version 00
 
-ligne de la version 01
+ligne (modifiée) de la version 01 et modifiée en version 2
+
+autre ligne ajoutée enversion 2
